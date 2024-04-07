@@ -16,14 +16,14 @@
 
 
 #### USENIX SECURITY SYMPOSIA
-![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acp](https://img.shields.io/badge/ACR--22'-~18.1%(256/1414)-yellow) ![acp](https://img.shields.io/badge/ACR--23'-~29.2%(422/1444)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acr](https://img.shields.io/badge/ACR--22'-~18.1%25(256/1414)-yellow) ![acr](https://img.shields.io/badge/ACR--23'-~29.2%25(422/1444)-yellow)
 
 - Proceedings: https://www.usenix.org/conferences/byname/108
 
 
 
 #### S&P: IEEE Symposium on Security and Privacy
-![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acp](https://img.shields.io/badge/ACR--22'-14.5%(147/1012)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acr](https://img.shields.io/badge/ACR--22'-14.5%25(147/1012)-yellow)
 
 - Recent Conference: https://www.ieee-security.org/TC/SP-Index.html
 - Proceedings: https://ieeexplore.ieee.org/xpl/conhome/1000646/all-proceedings
@@ -32,7 +32,7 @@
 
 
 #### CCS: ACM SIGSAC Conference on Computer and Communications Security
-![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acp](https://img.shields.io/badge/ACR--23'-19.2%(234/1222)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acr](https://img.shields.io/badge/ACR--23'-19.2%25(234/1222)-yellow)
 
 - Proceedings: https://dl.acm.org/conference/ccs/proceedings
 - dblp: https://dblp.uni-trier.de/db/conf/ccs/index.html
@@ -40,7 +40,7 @@
 
 
 #### NDSS: Network and Distributed System Security Symposium
-![ccfa](https://img.shields.io/badge/CCF-A-blue)![acp](https://img.shields.io/badge/ACR--24'-~15%(104/694)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue)![acr](https://img.shields.io/badge/ACR--24'-~15%25(104/694)-yellow)
 
 - Home: https://www.ndss-symposium.org/
 - Recent Conference: https://www.ndss-symposium.org/previous-ndss-symposia/
@@ -49,7 +49,7 @@
 
 
 #### WWW: International World Wide Web Conference
-![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acp](https://img.shields.io/badge/ACR--23'-19.2%(365/1900)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acr](https://img.shields.io/badge/ACR--23'-19.2%25(365/1900)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/www/
 
@@ -57,14 +57,14 @@
 
 
 #### INFOCOM: IEEE International Conference on Computer Communications 
-![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acp](https://img.shields.io/badge/ACR--23'-19.2%(252/1313)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acr](https://img.shields.io/badge/ACR--23'-19.2%25(252/1313)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/infocom/
 
 
 
 #### NSDI: Symposium on Network System Design and Implementation
-![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acp](https://img.shields.io/badge/ACR--23'-18.4%(50/272)-yellow)
+![ccfa](https://img.shields.io/badge/CCF-A-blue) ![acr](https://img.shields.io/badge/ACR--23'-18.4%25(50/272)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/nsdi/
 
@@ -97,33 +97,33 @@
 
 
 #### ESORICS: European Symposium on Research in Computer Security 
-![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acp](https://img.shields.io/badge/ACR--23'-~19.5%(93/478)-yellow)
+![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acr](https://img.shields.io/badge/ACR--23'-~19.5%25(93/478)-yellow)
 dblp: http://dblp.uni-trier.de/db/conf/esorics/
 
 
 
 #### RAID: International Symposium on Recent Advances in Intrusion Detection
-![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acp](https://img.shields.io/badge/ACR--23'-~23.5%(50/213)-yellow)
+![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acr](https://img.shields.io/badge/ACR--23'-~23.5%25(50/213)-yellow)
 dblp: http://dblp.uni-trier.de/db/conf/raid/
 
 
 
 #### IWQoS: IEEE/ACM International Workshop on Quality of Service
-![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acp](https://img.shields.io/badge/ACR--23'-23.5%(62/264)-yellow)
+![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acr](https://img.shields.io/badge/ACR--23'-23.5%25(62/264)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/iwqos/
 
 
 
 #### IMC: ACM Internet Measurement Conference
-![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acp](https://img.shields.io/badge/ACR--23'-25%(52/208)-yellow)
+![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acr](https://img.shields.io/badge/ACR--23'-25%25(52/208)-yellow)
 
 - Proceedings: https://dl.acm.org/conference/imc/proceedings
 
 
 
 #### ACSAC: Annual Computer Security Applications Conference
-![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acp](https://img.shields.io/badge/ACR--23'-24%(59/246)-yellow)
+![ccfb](https://img.shields.io/badge/CCF-B-blue) ![acr](https://img.shields.io/badge/ACR--23'-24%25(59/246)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/acsac/
 
@@ -154,7 +154,7 @@ dblp: http://dblp.uni-trier.de/db/conf/raid/
 
 
 #### EuroS&P: IEEE European Symposium on Security and Privacy
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-35%(63/180)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-35%25(63/180)-yellow)
 
 - Recent Conference: https://www.ieee-security.org/TC/SP-Index.html
 - Proceedings: https://ieeexplore.ieee.org/xpl/conhome/1813044/all-proceedings
@@ -164,52 +164,52 @@ dblp: http://dblp.uni-trier.de/db/conf/raid/
 
 
 #### Networking: IFIP International Conferences on Networking
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-27.1%(52/192)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-27.1%25(52/192)-yellow)
 
 
 
 #### ICCCN: IEEE International Conference on Computer Communications and Networks
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-26.9%(49/182)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-26.9%25(49/182)-yellow)
 
 
 
 #### ICICS: International Conference on Information and Communications Security
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-21%(38/181)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-21%25(38/181)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/icics/
 
 
 
 #### TrustCom: IEEE International Conference on Trust, Security and Privacy in Computing and Communications
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--22'-25%(131/524)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--22'-25%25(131/524)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/trustcom/
 
 
 
 #### SecureComm: International Conference on Security and Privacy in Communication Networks
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-30%(54/180)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-30%25(54/180)-yellow)
 
 - dblp: http://dblp.unitrier.de/db/conf/securecomm/
 
 
 
 #### PETS: Privacy Enhancing Technologies Symposium
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-None-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-None-yellow)
 
 -  dblp: http://dblp.uni-trier.de/db/conf/pet/
 
 
 
 #### AsiaCCS: ACM Asia Conference on Computer and Communications Security
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--22'-18.3%(85/463)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--22'-18.3%25(85/463)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/ccs/
 
 
 
 #### PAM: International Conference on Passive and Active Network Measurement
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--22'-33.8%(27/80)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--22'-33.8%25(27/80)-yellow)
 
 - Proceedings: https://link.springer.com/conference/pam
 
@@ -264,7 +264,7 @@ dblp: http://dblp.uni-trier.de/db/conf/raid/
 
 
 #### WASA: International Conference on Wireless Artificial Intelligent Computing Systems and Applications
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--22'-59.2%(157/265)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--22'-59.2%25(157/265)-yellow)
 
 - 官网：http://wasa-conference.org/
 - 3/4 月截稿，1 个月审稿周期，单盲，Spring 单栏 12 页
@@ -272,31 +272,31 @@ dblp: http://dblp.uni-trier.de/db/conf/raid/
 
 
 #### IJCNN: International Joint Conference on Neural Networks
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-54.76%(1034/1888)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-54.76%25(1034/1888)-yellow)
 
 - 1月截稿，1.5 个月审稿周期，IEEE 双栏 8 页
 
 
 
 #### SMC: IEEE International Conference on Systems, Man, and Cybernetics
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-~60%-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-~60%25-yellow)
 
 - 4月截稿，1 个月审稿周期，IEEE 双栏 6 页
 
 
 
 #### ICC: IEEE International Conference on Communications
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--22'-38%(962/2529)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--22'-38%25(962/2529)-yellow)
 
 
 
 #### WoWMoM
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--23'-28.3%(36/127)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--23'-28.3%25(36/127)-yellow)
 
 
 
 #### ISC: Information Security Conference Springer 
-![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acp](https://img.shields.io/badge/ACR--22'-40.3%(29/72)-yellow)
+![ccfc](https://img.shields.io/badge/CCF-C-blue) ![acr](https://img.shields.io/badge/ACR--22'-40.3%25(29/72)-yellow)
 
 - dblp: http://dblp.uni-trier.de/db/conf/isw/
 
